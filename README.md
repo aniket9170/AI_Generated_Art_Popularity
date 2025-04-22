@@ -1,23 +1,12 @@
-# 1. Platform Comparison Dashboard (Data Analysis Project)
+# AI Art Platforms: A Statistical Approach to Popularity and Pricing Trends:
 
-**Problem:** Which platform performs best for AI-generated art?
+**Problem:** Which platform performs best for AI-generated art and tell which platform to choose with respect to below mentioned visulas?
 
-**Tools:** Pandas + Seaborn/Matplotlib
+**Tools:** Pandas + Seaborn/Matplotlib, normalized composite metrics.
 
 **Visuals:**
 
 - Avg price per platform
 - Avg engagement score per platform
 - Creator-type popularity per platform
-
-No ML required 
-
-
-# 2. Price Prediction for AI Art (Regression)
-
-**Problem:** Predict the price of AI-generated artwork based on engagement or other metrics.
-
-**Model:** Linear Regression / Random Forest
-
-**Goal:** Help estimate fair market price
 
