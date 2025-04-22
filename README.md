@@ -10,7 +10,7 @@
 - Avg engagement score per platform
 - Creator-type popularity per platform
 
-** Summary **
+**Summary**
 
  • Performed exploratory data analysis (EDA) on AI-generated art platforms using Python (Pd, Sns, plt).
  • Aggregated and visualized key metrics like average price, engagement score, and creator-type distribution per platform.
