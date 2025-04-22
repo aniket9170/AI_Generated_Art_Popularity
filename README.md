@@ -2,7 +2,14 @@
 
 **Problem:** Which platform performs best for AI-generated art and tell which platform to choose with respect to below mentioned visulas?
 
-**Tools:** Pandas + Seaborn/Matplotlib, zscore function
+**Tools:** 
+
+- Pandas 
+- Seaborn/Matplotlib
+
+**Approach** 
+
+- zscore function
 
 **Visuals:**
 
